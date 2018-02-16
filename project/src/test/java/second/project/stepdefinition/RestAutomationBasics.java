@@ -1,4 +1,4 @@
-package second.project;
+package second.project.stepdefinition;
 
 
 import org.json.simple.JSONObject;

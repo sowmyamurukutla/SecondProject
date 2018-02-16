@@ -1,4 +1,4 @@
-package second.project;
+package second.project.stepdefinition;
 
 public class RegistrationSuccessResponse {
 
