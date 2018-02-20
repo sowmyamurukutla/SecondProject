@@ -3,6 +3,9 @@
     <classes>
       <class name="second.project.stepdefinition.FirstJunit"/>
       <class name="second.project.stepdefinition.SecondJunit"/>
+	  <class name="second.project.stepdefinition.ThirdTestng"/>
+	  
+
      </classes>
  </test>
 </suite>
