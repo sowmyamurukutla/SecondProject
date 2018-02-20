@@ -1,6 +1,6 @@
 package second.project.stepdefinition;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class SecondJunit {
 	@Test
