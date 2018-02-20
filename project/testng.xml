@@ -1,0 +1,8 @@
+<suite name="Fistsuite"  >
+  <test name="Regressionsuite1" >
+    <classes>
+      <class name="second.project.stepdefinition.FirstJunit"/>
+      <class name="second.project.stepdefinition.SecondJunit"/>
+     </classes>
+ </test>
+</suite>
